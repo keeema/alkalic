@@ -28,6 +28,14 @@
   resolved "https://registry.yarnpkg.com/@types/sizzle/-/sizzle-2.3.2.tgz#a811b8c18e2babab7d542b3365887ae2e4d9de47"
   integrity sha512-7EJYyKTL7tFR8+gDbB6Wwz/arpGa0Mywk1TJbNzKzHtzbwVmY4HR9WqS5VV7dsBUKQmPNr192jHr/VpBluj/hg==
 
+bobril-g11n@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/bobril-g11n/-/bobril-g11n-5.0.0.tgz#4d4341fda018138caedb4611ecf9f27a7c7b7a40"
+  integrity sha512-zuQOeZLSz0+ZeTw+daj3T41zVnVkXnlDyR6shKiFL/5wZrU+2CE9Du9QoAHHyIniVF4AompfGldbcs0XVneqHQ==
+  dependencies:
+    bobril "*"
+    moment "^2.10.6"
+
 bobril@*, bobril@^14.0.1, bobril@^14.1.1:
   version "14.1.1"
   resolved "https://registry.yarnpkg.com/bobril/-/bobril-14.1.1.tgz#51fc3a0f0927b5ccb7b89377d776ac6c7f5e8cdf"
@@ -67,3 +75,18 @@ jquery@^3.3.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
   integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+
+moment@^2.10.6:
+  version "2.24.0"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
+  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+
+prettier@^1.19.1:
+  version "1.19.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
+  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
+
+pwa-install-handler@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/pwa-install-handler/-/pwa-install-handler-2.0.6.tgz#c6f2cbae9ea7df275484064c093caa958618b80a"
+  integrity sha512-QjMoXnhd1EYit/BKRuQGIQGzjbAqU502ksgMDVK51snnE8hLxENi0SkvQu1gTVxQxYPdQbjTvjLnkf+jzl/O4w==

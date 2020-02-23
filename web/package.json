@@ -20,15 +20,21 @@
     "url": "https://github.com/keeema/alkalic/issues"
   },
   "homepage": "https://github.com/keeema/alkalic#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
   "dependencies": {
     "bobril": "^14.1.1",
+    "bobril-g11n": "^5.0.0",
     "bobrilstrap": "^3.3.0",
-    "bobx": "^0.28.0"
+    "bobx": "^0.28.0",
+    "pwa-install-handler": "^2.0.6"
   },
   "bobril": {
     "title": "alkalic",
+    "buildOutputDir": "../docs",
     "additionalResourcesDirectory": "static",
-    "head": "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"shortcut icon\" type=\"image/ico\" href=\"favicon.ico\" /><link rel=\"manifest\" href=\"manifest.json\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#6f5499\"><meta name=\"apple-mobile-web-app-title\" content=\"Bobrilstrap\"><link rel=\"apple-touch-icon\" href=\"/icons/icon-152x152.png\"><meta name=\"description\" content=\"Bobril wrapper of the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web - Bootstrap.\"><meta name=\"theme-color\" content=\"#6f5499\" />",
+    "head": "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"shortcut icon\" type=\"image/ico\" href=\"favicon.ico\" /><link rel=\"manifest\" href=\"manifest.json\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#6f5499\"><meta name=\"apple-mobile-web-app-title\" content=\"alkalic\"><link rel=\"apple-touch-icon\" href=\"/icons/icon-152x152.png\"><meta name=\"description\" content=\"Simple Progressive Web Application for searching food and its pH.\"><meta name=\"theme-color\" content=\"#6f5499\" />",
     "compilerOptions": {
       "declaration": true,
       "strict": true,

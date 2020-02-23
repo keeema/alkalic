@@ -1,0 +1,1 @@
+bobrilRegisterTranslations("",[],["Přidat na plochu\t0","Potravina\t0","pH\t0"])

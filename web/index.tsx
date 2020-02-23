@@ -1,16 +1,16 @@
 import * as b from "bobril";
 import "bobrilstrap";
-import { data } from "./src/data/data";
-import { Navigation } from "./src/navigation";
-import { Container } from "bobrilstrap";
+import { mainRoute, searchRoute } from "./src/routes";
+import { initGlobalization } from "bobril-g11n";
 
-const navigationPadding = b.styleDef({ paddingTop: 50 });
+initGlobalization({ defaultLocale: "cs-CZ" }).then(() => {
+  b.routes(
+    b.route(mainRoute, [b.route(searchRoute), b.routeDefault(searchRoute)])
+  );
+});
 
-b.init(() => (
-  <>
-    <Navigation />
-    <Container fluid style={navigationPadding}>
-      {data.items.map(item => item.name)}
-    </Container>
-  </>
-));
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker
+    .register(b.asset("project:../serviceWorker"))
+    .then(() => console.log("BB Service Worker Registered"));
+}

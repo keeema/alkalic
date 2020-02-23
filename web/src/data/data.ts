@@ -5,7 +5,7 @@ interface IFoodJson {
   items: IFood[];
 }
 
-interface IFood {
+export interface IFood {
   name: string;
   pH: number;
 }
