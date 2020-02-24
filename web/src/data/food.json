@@ -5,7 +5,63 @@
       "pH": 9
     },
     {
-      "name": "Meloun",
+      "name": "Citrón",
+      "pH": 9
+    },
+    {
+      "name": "Červený meloun",
+      "pH": 9
+    },
+    {
+      "name": "Petržel",
+      "pH": 9
+    },
+    {
+      "name": "řasa agar",
+      "pH": 8.5
+    },
+    {
+      "name": "Cantalope",
+      "pH": 8.5
+    },
+    {
+      "name": "Chilli",
+      "pH": 8.5
+    },
+    {
+      "name": "Sušené datle",
+      "pH": 8.5
+    },
+    {
+      "name": "Sušené fíky",
+      "pH": 8.5
+    },
+    {
+      "name": "Chaluha",
+      "pH": 8.5
+    },
+    {
+      "name": "Mango",
+      "pH": 8.5
+    },
+    {
+      "name": "Limetka",
+      "pH": 8.5
+    },
+    {
+      "name": "Papája",
+      "pH": 8.5
+    },
+    {
+      "name": "Mořské řasy",
+      "pH": 8.5
+    },
+    {
+      "name": "Chřest",
+      "pH": 8.5
+    },
+    {
+      "name": "Hrozno",
       "pH": 8.5
     },
     {
@@ -13,7 +69,183 @@
       "pH": 8.25
     },
     {
+      "name": "Čekanka",
+      "pH": 8.25
+    },
+    {
+      "name": "Ovocné šťávy",
+      "pH": 8.25
+    },
+    {
+      "name": "Zeleninové šťávy",
+      "pH": 8.25
+    },
+    {
+      "name": "Bylinný čaj",
+      "pH": 8.25
+    },
+    {
+      "name": "Umeboshi",
+      "pH": 8.25
+    },
+    {
+      "name": "Rozinky",
+      "pH": 8.25
+    },
+    {
+      "name": "Hrušky",
+      "pH": 8.25
+    },
+    {
+      "name": "Kiwi",
+      "pH": 8.25
+    },
+    {
+      "name": "Ananas",
+      "pH": 8.25
+    },
+    {
+      "name": "Stevia",
+      "pH": 8.25
+    },
+    {
+      "name": "Chlorela",
+      "pH": 8.25
+    },
+    {
+      "name": "Spirulina",
+      "pH": 8.25
+    },
+    {
+      "name": "Syrový hráškový protein",
+      "pH": 8.25
+    },
+    {
+      "name": "Syrový konopný protein",
+      "pH": 8.25
+    },
+    {
+      "name": "Makové mléko",
+      "pH": 8.25
+    },
+    {
+      "name": "Mladý hrášek",
+      "pH": 8.25
+    },
+    {
+      "name": "Mateřské mléko",
+      "pH": 8.25
+    },
+    {
+      "name": "Persimon",
+      "pH": 8.25
+    },
+    {
+      "name": "Angrešt",
+      "pH": 8.25
+    },
+    {
       "name": "Jablka",
+      "pH": 8
+    },
+    {
+      "name": "Meruňky",
+      "pH": 8
+    },
+    {
+      "name": "Avokádo",
+      "pH": 8
+    },
+    {
+      "name": "Banány",
+      "pH": 8
+    },
+    {
+      "name": "Dýně",
+      "pH": 8
+    },
+    {
+      "name": "Jahody",
+      "pH": 8
+    },
+    {
+      "name": "Maliny",
+      "pH": 8
+    },
+    {
+      "name": "Rybíz",
+      "pH": 8
+    },
+    {
+      "name": "Ostružiny",
+      "pH": 8
+    },
+    {
+      "name": "Čerstvé datle",
+      "pH": 8
+    },
+    {
+      "name": "Čerstvé fíky",
+      "pH": 8
+    },
+    {
+      "name": "Grapefruit",
+      "pH": 8
+    },
+    {
+      "name": "Guava",
+      "pH": 8
+    },
+    {
+      "name": "Kaki",
+      "pH": 8
+    },
+    {
+      "name": "Broskve",
+      "pH": 8
+    },
+    {
+      "name": "Nektaroinky",
+      "pH": 8
+    },
+    {
+      "name": "Česnek",
+      "pH": 8
+    },
+    {
+      "name": "Salát",
+      "pH": 8
+    },
+    {
+      "name": "Listová zelenina",
+      "pH": 8
+    },
+    {
+      "name": "Mrkev",
+      "pH": 8
+    },
+    {
+      "name": "Celer",
+      "pH": 8
+    },
+    {
+      "name": "Kokosový olej",
+      "pH": 8
+    },
+    {
+      "name": "Alfalfa",
+      "pH": 8
+    },
+    {
+      "name": "Klíčky",
+      "pH": 8
+    },
+    {
+      "name": "Bylinky",
+      "pH": 8
+    },
+    {
+      "name": "Mořská sůl",
       "pH": 8
     },
     {
@@ -21,7 +253,164 @@
       "pH": 7.75
     },
     {
+      "name": "Papriky",
+      "pH": 7.75
+    },
+    {
+      "name": "Brokolice",
+      "pH": 7.75
+    },
+    {
+      "name": "Květák",
+      "pH": 7.75
+    },
+    {
+      "name": "Zelí",
+      "pH": 7.75
+    },
+    {
+      "name": "Kapusta",
+      "pH": 7.75
+    },
+    {
+      "name": "Pastiňák",
+      "pH": 7.75
+    },
+    {
+      "name": "Kedlubna",
+      "pH": 7.75
+    },
+    {
+      "name": "Tuřín",
+      "pH": 7.75
+    },
+    {
+      "name": "Kukuřice",
+      "pH": 7.75
+    },
+    {
+      "name": "Tykev",
+      "pH": 7.75
+    },
+    {
+      "name": "Brambory se slupkou",
+      "pH": 7.75
+    },
+    {
+      "name": "Mladé fazolky",
+      "pH": 7.75
+    },
+    {
+      "name": "Kakaové boby",
+      "pH": 7.75
+    },
+    {
+      "name": "Sladké brambory",
+      "pH": 7.75
+    },
+    {
+      "name": "Karobový prášek",
+      "pH": 7.75
+    },
+    {
+      "name": "Aloe Vera",
+      "pH": 7.75
+    },
+    {
+      "name": "Pomeranč",
+      "pH": 7.75
+    },
+    {
+      "name": "Zázvor",
+      "pH": 7.75
+    },
+    {
+      "name": "Jablečný ocet",
+      "pH": 7.75
+    },
+    {
       "name": "Okurka",
+      "pH": 7.5
+    },
+    {
+      "name": "Artičoky",
+      "pH": 7.5
+    },
+    {
+      "name": "Lilek",
+      "pH": 7.5
+    },
+    {
+      "name": "Pór",
+      "pH": 7.5
+    },
+    {
+      "name": "Třešně",
+      "pH": 7.5
+    },
+    {
+      "name": "Višně",
+      "pH": 7.5
+    },
+
+    {
+      "name": "Kaštany",
+      "pH": 7.5
+    },
+    {
+      "name": "Okra",
+      "pH": 7.5
+    },
+    {
+      "name": "Rajčata",
+      "pH": 7.5
+    },
+    {
+      "name": "Houby",
+      "pH": 7.5
+    },
+    {
+      "name": "Cibule",
+      "pH": 7.5
+    },
+    {
+      "name": "Čerstvý kokos",
+      "pH": 7.5
+    },
+    {
+      "name": "Syrový med",
+      "pH": 7.5
+    },
+    {
+      "name": "Růžičková kapusta",
+      "pH": 7.5
+    },
+    {
+      "name": "Čerstvé olivy",
+      "pH": 7.5
+    },
+    {
+      "name": "Tamari",
+      "pH": 7.5
+    },
+    {
+      "name": "Kakaový prášek",
+      "pH": 7.5
+    },
+    {
+      "name": "Miso",
+      "pH": 7.5
+    },
+    {
+      "name": "Taro",
+      "pH": 7.5
+    },
+    {
+      "name": "Rýžový ocet",
+      "pH": 7.5
+    },
+    {
+      "name": "Bylinkové koření",
       "pH": 7.5
     },
     {
@@ -29,7 +418,111 @@
       "pH": 7.25
     },
     {
+      "name": "Jáhly",
+      "pH": 7.25
+    },
+    {
+      "name": "Quinoa",
+      "pH": 7.25
+    },
+    {
+      "name": "Rebarbora",
+      "pH": 7.25
+    },
+    {
+      "name": "Rajčata",
+      "pH": 7.25
+    },
+    {
+      "name": "Ředkvička",
+      "pH": 7.25
+    },
+    {
+      "name": "Křen",
+      "pH": 7.25
+    },
+    {
+      "name": "Sojové boby",
+      "pH": 7.25
+    },
+    {
+      "name": "Sojové mléko",
+      "pH": 7.25
+    },
+    {
+      "name": "Bio sojové produkty",
+      "pH": 7.25
+    },
+    {
+      "name": "Tofu",
+      "pH": 7.25
+    },
+    {
+      "name": "Tempeh",
+      "pH": 7.25
+    },
+    {
+      "name": "Nutriční droždí",
+      "pH": 7.25
+    },
+    {
+      "name": "Syrové kozí mléko",
+      "pH": 7.25
+    },
+    {
+      "name": "Olivový olej",
+      "pH": 7.25
+    },
+    {
+      "name": "Lněný olej",
+      "pH": 7.25
+    },
+    {
+      "name": "Mandle",
+      "pH": 7.25
+    },
+    {
+      "name": "Lískové ořechy",
+      "pH": 7.25
+    },
+    {
+      "name": "Sezam",
+      "pH": 7.25
+    },
+    {
+      "name": "Baklažán",
+      "pH": 7.25
+    },
+    {
+      "name": "Klíčky zrní",
+      "pH": 7.25
+    },
+    {
+      "name": "Žloutka",
+      "pH": 7.25
+    },
+    {
       "name": "Syrové kravské mléko",
+      "pH": 7
+    },
+    {
+      "name": "Oleje bio kvalita (kromě olivového)",
+      "pH": 7
+    },
+    {
+      "name": "Neslazený jogurt",
+      "pH": 7
+    },
+    {
+      "name": "Syrovátka",
+      "pH": 7
+    },
+    {
+      "name": "Smetana",
+      "pH": 7
+    },
+    {
+      "name": "Bio máslo",
       "pH": 7
     },
     {
@@ -37,11 +530,215 @@
       "pH": 6.5
     },
     {
+      "name": "Brazilské ořechy",
+      "pH": 6.5
+    },
+    {
+      "name": "Pekanové ořechy",
+      "pH": 6.5
+    },
+    {
+      "name": "Pistácie",
+      "pH": 6.5
+    },
+    {
+      "name": "Vaječný bílek",
+      "pH": 6.5
+    },
+    {
+      "name": "Cottage",
+      "pH": 6.5
+    },
+    {
+      "name": "Měkké sýry",
+      "pH": 6.5
+    },
+    {
+      "name": "Zavařené olivy",
+      "pH": 6.5
+    },
+    {
+      "name": "Fazole",
+      "pH": 6.5
+    },
+    {
+      "name": "Švestky",
+      "pH": 6.5
+    },
+    {
+      "name": "Borůvky",
+      "pH": 6.5
+    },
+    {
+      "name": "Sušený kokos",
+      "pH": 6.5
+    },
+    {
+      "name": "Lněná semínka",
+      "pH": 6.5
+    },
+    {
+      "name": "Pasterizované kozí mléko",
+      "pH": 6.5
+    },
+    {
+      "name": "Ochucené mléko",
+      "pH": 6.5
+    },
+    {
       "name": "Vařená čočka",
       "pH": 6.25
     },
     {
-      "name": "Vařená pohanka",
+      "name": "Ječmen",
+      "pH": 6.25
+    },
+    {
+      "name": "Makadémie",
+      "pH": 6.25
+    },
+    {
+      "name": "Kešu",
+      "pH": 6.25
+    },
+    {
+      "name": "Vlašské ořechy",
+      "pH": 6.25
+    },
+    {
+      "name": "Pasterizované mléko",
+      "pH": 6.25
+    },
+    {
+      "name": "Mléčné výrobky",
+      "pH": 6.25
+    },
+    {
+      "name": "Javorový sirup",
+      "pH": 6.25
+    },
+    {
+      "name": "Ječný sirup",
+      "pH": 6.25
+    },
+    {
+      "name": "Med",
+      "pH": 6.25
+    },
+    {
+      "name": "Fruktóza",
+      "pH": 6.25
+    },
+    {
+      "name": "Melasa",
+      "pH": 6.25
+    },
+    {
+      "name": "Hořčice",
+      "pH": 6.25
+    },
+    {
+      "name": "Muškátový ořech",
+      "pH": 6.25
+    },
+    {
+      "name": "Otruby",
+      "pH": 6.25
+    },
+    {
+      "name": "Neochucený popcorn",
+      "pH": 6.25
+    },
+    {
+      "name": "Žito",
+      "pH": 6.25
+    },
+    {
+      "name": "Žitný chléb",
+      "pH": 6.25
+    },
+    {
+      "name": "Slunečnicová semínka",
+      "pH": 6.25
+    },
+    {
+      "name": "Dýňová semínka",
+      "pH": 6.25
+    },
+    {
+      "name": "Pohanka",
+      "pH": 6
+    },
+    {
+      "name": "Rýžové chlebíčky",
+      "pH": 6
+    },
+    {
+      "name": "Celozrnné krekry",
+      "pH": 6
+    },
+    {
+      "name": "Celozrnné cereálie",
+      "pH": 6
+    },
+    {
+      "name": "Celozrnné těstoviny",
+      "pH": 6
+    },
+    {
+      "name": "Domácí celozrnný chléb",
+      "pH": 6
+    },
+    {
+      "name": "Rýže červená",
+      "pH": 6
+    },
+    {
+      "name": "Rýže hnědá",
+      "pH": 6
+    },
+    {
+      "name": "Rýže basmati",
+      "pH": 6
+    },
+    {
+      "name": "Pšenice",
+      "pH": 6
+    },
+    {
+      "name": "Ovesné vločky",
+      "pH": 6
+    },
+    {
+      "name": "Tvrdé sýry",
+      "pH": 6
+    },
+    {
+      "name": "Tvaroh",
+      "pH": 6
+    },
+    {
+      "name": "Bryndza",
+      "pH": 6
+    },
+    {
+      "name": "Kečup",
+      "pH": 6
+    },
+    {
+      "name": "Majonéza",
+      "pH": 6
+    },
+    {
+      "name": "Sojová omáčka",
+      "pH": 6
+    },
+    {
+      "name": "Brambory",
+      "pH": 6
+    },
+    {
+      "name": "Chléb s kličky",
       "pH": 6
     },
     {
@@ -49,11 +746,215 @@
       "pH": 5.5
     },
     {
+      "name": "Ryby",
+      "pH": 5.5
+    },
+    {
+      "name": "Víno",
+      "pH": 5.5
+    },
+    {
+      "name": "Sirupy",
+      "pH": 5.5
+    },
+    {
+      "name": "Konzervy",
+      "pH": 5.5
+    },
+    {
+      "name": "Zavařeniny",
+      "pH": 5.5
+    },
+    {
+      "name": "Oslazené cereálie",
+      "pH": 5.5
+    },
+    {
+      "name": "Müsli tyčinky",
+      "pH": 5.5
+    },
+    {
+      "name": "Pšeničné klíčky",
+      "pH": 5.5
+    },
+    {
+      "name": "Celozrnný chléb",
+      "pH": 5.5
+    },
+    {
+      "name": "Sladká šlehačka",
+      "pH": 5.5
+    },
+    {
+      "name": "Slazené džusy",
+      "pH": 5.5
+    },
+    {
+      "name": "Slazené jogurty",
+      "pH": 5.5
+    },
+    {
+      "name": "Tvarohové jogurty",
+      "pH": 5.5
+    },
+    {
+      "name": "Oslazené mléko",
+      "pH": 5.5
+    },
+    {
+      "name": "Domácí tabák",
+      "pH": 5.5
+    },
+    {
       "name": "Kuřecí maso",
       "pH": 5
     },
     {
+      "name": "Kuřecí maso",
+      "pH": 5
+    },
+    {
+      "name": "Krůtí maso",
+      "pH": 5
+    },
+    {
+      "name": "Zvěřina",
+      "pH": 5
+    },
+    {
+      "name": "Zajíc",
+      "pH": 5
+    },
+    {
+      "name": "Králík",
+      "pH": 5
+    },
+    {
+      "name": "Marmeláda",
+      "pH": 5
+    },
+    {
+      "name": "Hnědý třtinový cukr",
+      "pH": 5
+    },
+    {
+      "name": "Čokoláda",
+      "pH": 5
+    },
+    {
+      "name": "Těstoviny",
+      "pH": 5
+    },
+    {
+      "name": "Rýže",
+      "pH": 5
+    },
+    {
+      "name": "Krupice",
+      "pH": 5
+    },
+    {
+      "name": "Pšeničný chléb",
+      "pH": 5
+    },
+    {
+      "name": "Bonbóny",
+      "pH": 5
+    },
+    {
+      "name": "Slazené nápoje",
+      "pH": 5
+    },
+    {
+      "name": "Energy drink",
+      "pH": 5
+    },
+    {
+      "name": "Káva",
+      "pH": 5
+    },
+    {
+      "name": "Kafe",
+      "pH": 5
+    },
+    {
+      "name": "Černý čaj",
+      "pH": 5
+    },
+    {
+      "name": "Alkohol",
+      "pH": 5
+    },
+    {
+      "name": "Pivo",
+      "pH": 5
+    },
+    {
+      "name": "Bílý vinný ocet",
+      "pH": 5
+    },
+    {
+      "name": "Stolní sůl",
+      "pH": 5
+    },
+    {
       "name": "Hovězí maso",
+      "pH": 4.5
+    },
+    {
+      "name": "Vepřové maso",
+      "pH": 4.5
+    },
+    {
+      "name": "Jehněčí maso",
+      "pH": 4.5
+    },
+    {
+      "name": "Telecí maso",
+      "pH": 4.5
+    },
+    {
+      "name": "Bílý cukr",
+      "pH": 4.5
+    },
+    {
+      "name": "Bílá mouka",
+      "pH": 4.5
+    },
+    {
+      "name": "Bílý chléb",
+      "pH": 4.5
+    },
+    {
+      "name": "Bílé pečivo",
+      "pH": 4.5
+    },
+    {
+      "name": "Koláče",
+      "pH": 4.5
+    },
+    {
+      "name": "Dorty",
+      "pH": 4.5
+    },
+    {
+      "name": "Léky",
+      "pH": 4.5
+    },
+    {
+      "name": "Cigarety",
+      "pH": 4.5
+    },
+    {
+      "name": "Uzeniny",
+      "pH": 4.5
+    },
+    {
+      "name": "Masové výrobky",
+      "pH": 4.5
+    },
+    {
+      "name": "Cola",
       "pH": 4.5
     },
     {
