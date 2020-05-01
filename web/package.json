@@ -1,51 +1,60 @@
 {
-  "name": "alkalic-web",
-  "version": "1.0.0",
-  "description": "Web part of simple Progressive Web Application for searching food and its pH.",
-  "main": "index.tsx",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/keeema/alkalic.git"
-  },
-  "keywords": [
-    "food",
-    "acidity"
-  ],
-  "author": "Tomáš Růt",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/keeema/alkalic/issues"
-  },
-  "homepage": "https://github.com/keeema/alkalic#readme",
-  "devDependencies": {
-    "prettier": "^1.19.1"
-  },
-  "dependencies": {
-    "bobril": "^14.1.1",
-    "bobril-g11n": "^5.0.0",
-    "bobrilstrap": "^3.3.0",
-    "bobx": "^0.28.0",
-    "pwa-install-handler": "^2.0.6"
-  },
-  "bobril": {
-    "title": "alkalic",
-    "buildOutputDir": "../docs",
-    "additionalResourcesDirectory": "static",
-    "head": "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"shortcut icon\" type=\"image/ico\" href=\"favicon.ico\" /><link rel=\"manifest\" href=\"manifest.json\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#ffaa80\"><meta name=\"apple-mobile-web-app-title\" content=\"alkalic\"><link rel=\"apple-touch-icon\" href=\"./icons/icon-152x152.png\"><meta name=\"description\" content=\"Simple Progressive Web Application for searching food and its pH.\"><meta name=\"theme-color\" content=\"#ffaa80\" />",
-    "compilerOptions": {
-      "declaration": true,
-      "strict": true,
-      "noUnusedLocals": true,
-      "noUnusedParameters": true,
-      "noImplicitReturns": true,
-      "noFallthroughCasesInSwitch": true,
-      "noEmitHelpers": true,
-      "preserveConstEnums": false,
-      "removeComments": false,
-      "sourceMap": true
+    "name": "alkalic-web",
+    "version": "1.0.0",
+    "description": "Web part of simple Progressive Web Application for searching food and its pH.",
+    "main": "index.tsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/keeema/alkalic.git"
+    },
+    "keywords": [
+        "food",
+        "acidity"
+    ],
+    "author": "Tomáš Růt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/keeema/alkalic/issues"
+    },
+    "homepage": "https://github.com/keeema/alkalic#readme",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^2.30.0",
+        "@typescript-eslint/parser": "^2.30.0",
+        "eslint": "^6.8.0",
+        "eslint-config-bobril": "^1.0.2",
+        "prettier": "^1.19.1",
+        "typescript": "^3.8.3"
+    },
+    "dependencies": {
+        "bobril": "^14.6.0",
+        "bobril-g11n": "^5.0.0",
+        "bobrilstrap": "^3.4.0",
+        "bobx": "^0.28.0",
+        "pwa-install-handler": "^2.0.6"
+    },
+    "prettier": {
+        "printWidth": 140,
+        "tabWidth": 4
+    },
+    "bobril": {
+        "title": "alkalic",
+        "buildOutputDir": "../docs",
+        "additionalResourcesDirectory": "static",
+        "head": "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><link rel=\"shortcut icon\" type=\"image/ico\" href=\"favicon.ico\" /><link rel=\"manifest\" href=\"manifest.json\"><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#ffaa80\"><meta name=\"apple-mobile-web-app-title\" content=\"alkalic\"><link rel=\"apple-touch-icon\" href=\"./icons/icon-152x152.png\"><meta name=\"description\" content=\"Simple Progressive Web Application for searching food and its pH.\"><meta name=\"theme-color\" content=\"#ffaa80\" />",
+        "compilerOptions": {
+            "declaration": true,
+            "strict": true,
+            "noUnusedLocals": true,
+            "noUnusedParameters": true,
+            "noImplicitReturns": true,
+            "noFallthroughCasesInSwitch": true,
+            "noEmitHelpers": true,
+            "preserveConstEnums": false,
+            "removeComments": false,
+            "sourceMap": true
+        }
     }
-  }
 }
